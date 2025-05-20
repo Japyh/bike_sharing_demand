@@ -4,7 +4,7 @@ The Kaggle Bike Sharing Demand contest is a popular competition that challenges 
 
 ## Acknowledgements
 
- - [Report About My Notebook](https://medium.com/@japyh/kaggle-bike-sharing-demand-competition-4c0b457e1c5b.)
+ - [Report About My Notebook](https://medium.com/@japyh/kaggle-bike-sharing-demand-competition-4c0b457e1c5b)
  - [My Kaggle Notebook](https://www.kaggle.com/code/deryaumutkulal/bike-sharing-demand)
 
 ## Feedback
